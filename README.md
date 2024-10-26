@@ -5,3 +5,4 @@
 3. Untuk commit ke-3
 4. Untuk commit ke-4 dari branch development
 5. Untuk commit ke-5 dari branch development
+6. Untuk commit ke-6 dari branch development
